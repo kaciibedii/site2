@@ -31,7 +31,7 @@ export default function Home() {
             Johnnie Walker
           </h1>
           <p className="text-muted-foreground">
-            I studied bro
+            why? because I studied bro
           </p>
         </motion.div>
 
